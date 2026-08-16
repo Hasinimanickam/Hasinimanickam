@@ -24,9 +24,6 @@ Hi, I'm Hasini 👋
 📌 Featured Project
 
 * 🏠 House Price Prediction
- 
-         A Machine Learning project focused on predicting house prices using data preprocessing,
-  feature analysis, and regression techniques.
   
 *  [House Price Prediction](https://github.com/Hasinimanickam/House-Price-Prediction)
   
