@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Hasini 👋
 
-<!--
-**Hasinimanickam/Hasinimanickam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Machine Learning Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Machine Learning, Generative AI, and Cloud Technologies.
+
+🛠️ Skills
+
+* Python
+* Machine Learning
+* Pandas
+* NumPy
+* Scikit-learn
+* AWS
+
+📌 Projects
+
+* 🏠 [House Price Prediction](https://github.com/Hasinimanickam/House-Price-Prediction)
+
+🎯 Interests
+
+* Machine Learning
+* Artificial Intelligence
+* Generative AI
+* Cloud Computing
+
+
+
+⭐ Thanks for visiting my profile!
