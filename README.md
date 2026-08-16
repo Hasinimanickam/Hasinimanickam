@@ -22,8 +22,6 @@ Hi, I'm Hasini 👋
 * AWS
 
 📌 Featured Project
-
-* 🏠 House Price Prediction
   
 *  [House Price Prediction](https://github.com/Hasinimanickam/House-Price-Prediction)
   
