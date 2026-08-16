@@ -23,7 +23,7 @@ Hi, I'm Hasini 👋
 
 📌 Featured Project
 
-* 🏠 [House Price Prediction](https://github.com/Hasinimanickam/House-Price-Prediction)
+* 🏠https://github.com/Hasinimanickam/House-Price-Prediction-.git
   
 🎯 Area of Interests
 
