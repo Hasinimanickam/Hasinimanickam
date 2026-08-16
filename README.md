@@ -22,8 +22,8 @@ Hi, I'm Hasini 👋
 * AWS
 
 📌 Featured Project
-  
-*  [House Price Prediction](https://github.com/Hasinimanickam/House-Price-Prediction)
+
+* 🏠 [House Price Prediction](https://github.com/Hasinimanickam/House-Price-Prediction)
   
 🎯 Area of Interests
 
@@ -33,4 +33,3 @@ Hi, I'm Hasini 👋
 * Cloud Computing
 
 ⭐ Thanks for visiting my profile!
-
